@@ -1,0 +1,60 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/target/classes;C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/target/test-classes;C:/Users/frost/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/frost/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/frost/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/src/test/java;C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/frost/Desktop/SoftwareQualityProject_1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\classes = 1706373030932
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\test-classes = 1706373031200
+C:\Users\frost\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1706203317107
+C:\Users\frost\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1706203317199
+C:\Users\frost\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1706204270099
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\src\test\java = 1706202918979
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\generated-test-sources\test-annotations = 1706373031067
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706373043051
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706373043058
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\copy.svg = 1706373043125
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\element-list = 1706373042965
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706373043112
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\index-all.html = 1706373043092
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\index.html = 1706373043099
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706373043161
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706373043069
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706373043061
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706373043029
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706373043063
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\script.js = 1706373043121
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\search-page.js = 1706373043141
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\search.html = 1706373043096
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\search.js = 1706373043131
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706373043117
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706373043072
+C:\Users\frost\Desktop\SoftwareQualityProject_1\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706373043066
